@@ -1,0 +1,25 @@
+body{
+    color: rgb(209, 54, 233);
+    background-color:rgb(242, 181, 225);
+    font-family: 'Itim', cursive;
+}
+
+h1{
+    color:rgb(127, 37, 108)
+}
+h3{
+    color:rgb(223, 26, 230)
+}
+
+img {
+    width: 200px; /*Anchi*/
+    height: 150px; /*Alto*/
+    padding: 10px;
+    margin: 10px;
+}
+
+footer{
+    background-color: rgb(233, 210, 227);
+    color: rgb(148, 25, 144);
+    padding: 20px;
+}
